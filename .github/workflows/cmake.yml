@@ -1,4 +1,4 @@
-name: Test_Motion_and_Rotation
+name: Test
 
 on:
   push:
